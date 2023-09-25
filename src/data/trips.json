@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/ocean-1.jpg",
+    "alt": "Leisure life in a village",
+    "name": "Leisure life in a village",
+    "button": " View Destination"
+  },
+  {
+    "img": "../assets/images/ocean-2.jpg",
+    "alt": "Find your way",
+    "name": "Find your way",
+    "button": " View Destination"
+  },
+  {
+    "img": "../assets/images/ocean-3.jpg",
+    "alt": "Enjoy the moment",
+    "name": "Enjoy the moment",
+    "button": " View Destination"
+  },
+  {
+    "img": "../assets/images/ocean-4.jpg",
+    "alt": "Free Your mind",
+    "name": "Free Your mind",
+    "button": " View Destination"
+  }
+]

@@ -1,7 +1,13 @@
-/**
- * Implement Gatsby's Browser APIs in this file.
- *
- * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-browser/
- */
+// import React from 'react'
+// import { ApolloClient, InMemoryCache, ApolloProvider, gql, useQuery } from '@apollo/client'
 
-// You can delete this file if you're not using it
+// const client = new ApolloClient({
+//   uri: 'https://vdwxn9d6wj.execute-api.eu-west-2.amazonaws.com/demo/graphql',
+//   cache: new InMemoryCache(),
+// })
+
+
+
+// export const wrapRootElement = ({ element }) => (
+//   <ApolloProvider client={client}>{element}</ApolloProvider>
+// )
